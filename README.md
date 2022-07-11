@@ -1,13 +1,13 @@
 ## Oi, me chamo Bernardo Alves 😎  
   
-<link type='stylesheet' src='style.css'>
+
 <a href="https://github.com/Bernardo-Alvess" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/BernardoRicardoAlves" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="httpas://twitter.com/BernardoAlves__" target="_blank">
+<a href="https://twitter.com/BernardoAlves__" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
   
@@ -21,7 +21,7 @@ Minha área de foco atual é mais para o Frontend, porém, meu objetivo final é
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table style='border: none'><tr><td valign="top" width="50%">
 
 ## Um pouquito mais sobre mim  
   
