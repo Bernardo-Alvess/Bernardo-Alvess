@@ -21,7 +21,7 @@ Minha área de foco atual é mais para o Frontend, porém, meu objetivo final é
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table style='border: none'><tr><td valign="top" width="50%">
 
 ## Um pouquito mais sobre mim  
   
