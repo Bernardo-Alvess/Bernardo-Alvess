@@ -71,7 +71,7 @@ Minha área de foco atual é mais para o Frontend, porém, meu objetivo final é
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Alvess&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Alvess&hide_border=true&layout=compact&theme=dark" align="center" /></div>
 
 </td></tr></table>  
 
