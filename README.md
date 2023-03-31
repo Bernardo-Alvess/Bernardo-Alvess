@@ -23,7 +23,7 @@ Minha área de foco atual é mais para o Frontend, porém, meu objetivo final é
 ## Um pouquito mais sobre mim  
   
 
-- 🔭 Meu último projeto: [Pokédex](https://bernardo-alvess.github.io/Pokedex/)  
+- 🔭 Meu último projeto: [Clone do jogo Termo](https://bernardo-alvess.github.io/Pokedex/](https://github.com/Bernardo-Alvess/termo)  
   
 
 - 🌱 No momento estou estudando Node.js  
