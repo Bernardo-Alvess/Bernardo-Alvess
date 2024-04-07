@@ -20,7 +20,7 @@ Minha área de foco atual é mais para o Frontend, porém, meu objetivo final é
 ## Um pouquito mais sobre mim  
   
 
-- 🔭 Meu último projeto: [Clone do jogo Termo](https://github.com/Bernardo-Alvess/termo)  
+- 🔭 Meu último projeto: [API pass.in](https://github.com/Bernardo-Alvess/nlw-unite-node)  
   
 
 - 🌱 No momento estou estudando Node.js  
