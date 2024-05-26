@@ -20,7 +20,7 @@ Minha área de foco atual é mais para o Frontend, porém, meu objetivo final é
 ## Um pouquito mais sobre mim  
   
 
-- 🔭 Meu último projeto: [API pass.in](https://github.com/Bernardo-Alvess/nlw-unite-node)  
+- 🔭 Meu último projeto: [Chatter](https://github.com/Bernardo-Alvess/chatter)  
   
 
 - 🌱 No momento estou estudando Node.js  
