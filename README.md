@@ -44,7 +44,7 @@ Minha área de foco atual é mais para o Frontend, porém, meu objetivo final é
 <br/>  
 
 ## Skills
-<table><tr><td valign="top" width="33%">
+<table style="align: center"><tr><td valign="top" width="33%">
 
 
 
@@ -66,8 +66,6 @@ Minha área de foco atual é mais para o Frontend, porém, meu objetivo final é
 </tr>
 <tr>
 <td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
