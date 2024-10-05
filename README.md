@@ -15,8 +15,6 @@ Minha área de foco atual é mais para o Frontend, porém, meu objetivo final é
 
 <br/>  
 
-<table style='border: none'><tr><td valign="top" width="50%">
-
 ## Um pouquito mais sobre mim  
   
 
@@ -28,18 +26,6 @@ Minha área de foco atual é mais para o Frontend, porém, meu objetivo final é
 
 - ⚡ Minhas paixões são skate e programação  
 
-
-</td><td valign="top" width="50%">
-
-## <div align="center">Eu programando</div>  
-  
-
-<div align="right">
-<img src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-macaco.gif" align="right" height="" width="300" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
