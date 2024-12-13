@@ -38,8 +38,8 @@ When I'm not coding you can find me reading about new tech. 💻
 
 
 ## Status do Github  
-<div style="display: flex; align-items: center; gap: 10px;">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bernardo-Alvess&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" style="width: 100%; heigth: 100%" /></div>
+<div style="display: flex; align-items: center; gap: 10px; flex-direction: row">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bernardo-Alvess&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Alvess&hide_border=true&layout=compact&theme=dark" align="center" style="width: 100%;"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Alvess&hide_border=true&layout=compact&theme=dark" align="center"/></div>
 </div>
